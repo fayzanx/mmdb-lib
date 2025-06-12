@@ -1,6 +1,6 @@
 {
   "name": "mmdb-lib",
-  "version": "0.0.0-development",
+  "version": "3.0.0-handle-large-files",
   "homepage": "https://github.com/runk/mmdb-lib",
   "description": "Maxmind DB (MMDB) Library",
   "keywords": [
