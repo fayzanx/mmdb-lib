@@ -24,7 +24,7 @@
     "ip-address": "10.0.1",
     "mocha": "^11.0.0",
     "prettier": "^3.5.3",
-    "semantic-release": "22",
+    "semantic-release": "^22.0.12",
     "sinon": "20.0.0",
     "ts-node": "^10.4.0",
     "typescript": "5.8.2"
